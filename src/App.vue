@@ -1,5 +1,5 @@
 <template>
-  <v-app id="app">
+  <v-app id="app-c">
         <v-content>
             <v-container fluid>
                 <v-layout row wrap>
@@ -25,7 +25,7 @@
 </script>
 
 <style>
-    #app {
+    #app-c {
         background:linear-gradient(135deg, #CE9FFC 0%,#7367F0 100%);
     }
 
